@@ -14,12 +14,19 @@ The data for this project is sourced from the Kaggle dataset:
 Dataset Link: Netflix Movies & TV shows [Dataset](https://www.kaggle.com/datasets/shivamb/netflix-shows?resource=download)
 ## Key Attributes in the Dataset
 Title: Name of the movie or TV show.
+
 Director: Name of the director.
+
 Genre: Type of content (e.g., Comedy, Drama).
+
 Country: Country where the content was produced.
+
 Date Added: Date when the content was added to Netflix. Release Year: Year of release.
+
 Rating: Content rating (e.g., PG-13, R).
+
 Duration: Length of the movie or number of seasons for TV shows.
+
 ## Questions Analyzed
 1. Count the Number of Movies vs TV Shows
 2. Find the Most Common Rating for Movies and TV Shows
